@@ -1,5 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin-left: 0%;
+    margin-top: 0%;
 }
 
 h1{
@@ -8,6 +10,10 @@ h1{
 
 #Maruf{
     color: orange;
+}
+
+.div_1{
+    padding-left: 5%;
 }
 
 .paragraf_color_1{
@@ -23,8 +29,12 @@ section{
     padding-left: 5%;
 }
 
+.padding_left{
+    padding-left: 15%;
+}
+
 .half-width img{
-    width: 80%;
+    width: 70%;
 }
 
 .link-button{
@@ -34,4 +44,9 @@ section{
     font-weight: 700;   
     padding: 10px 40px;
     border-radius: 5px;
+}
+
+.top_banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
